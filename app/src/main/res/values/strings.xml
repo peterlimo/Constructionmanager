@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Construct Manager</string>
+    <string name="info">Info</string>
+    <string name="budget">Budget</string>
+    <string name="schedule">Schedule</string>
+    <string name="photo">photo</string>
+    <string name="map">Map</string>
+    <string name="resp">Responsibilities</string>
+    <string name="responsibles">Responsibles</string>
+    <string name="cancelled">Cancelada</string>
+    <string name="exec">Execução</string>
+    <string name="deadline">Prazo (dd/mm/YYYY)</string>
+    <string name="desc">Descriçao</string>
+    <string name="title">Título</string>
+    <string name="open">Aberto</string>
+    <string name="on_schedule">Dentro do prazo</string>
+    <string name="reason">Motivo</string>
+    <string name="aditional_info">Informações adicionais</string>
+    <string name="delay_days">Dias de atraso estimado</string>
+    <string name="value">Valor</string>
+    <string name="finished">Concluída</string>
+    <string name="add">Cadastrar</string>
+    <string-array name="usertypes">
+        <item>Contratante</item>
+        <item>Executor</item>
+    </string-array>
+</resources>
